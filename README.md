@@ -30,8 +30,8 @@ A bar chart showing orientation distribution is included as a screenshot.
 
 Assumes each home faces the nearest road. Corner lots or cul-de-sacs may reduce accuracy. With more time, cadastre boundary analysis would increase precision.
 
-**Future Improvements
-**
+**Future Improvements**
+
 Use parcel frontage instead of the nearest road.
 
 Add sunlight/shadow scoring.
